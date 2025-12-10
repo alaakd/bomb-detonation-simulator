@@ -1,4 +1,4 @@
-# Assignment 5: Bombs!
+# Bombs!
 
 The terrain is now filled with bombs!
 
@@ -148,5 +148,3 @@ The graphical version of the terrain is clickable:
 | **click**     | detonate a bomb.        |
 | **w + click** | add a wall at position. |
 | **b + click** | add a bomb at position. |
-
-Have fun!
